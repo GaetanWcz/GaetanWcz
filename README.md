@@ -1,6 +1,6 @@
-# Hi there! 👋 I'm Ga*etan Wichlacz  
+# Hi there! 👋 I'm Gaëtan Wichlacz  
 
-💻 **Tech Lead | Node.js Enthusiast | Open Source Contributor**  
+💻 **Tech Lead | Node.js Enthusiast**  
 🚀 Passionate about building scalable, high-performance applications  
 
 ## 🔧 Tech Stack  
